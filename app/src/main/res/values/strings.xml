@@ -1,10 +1,9 @@
 <resources>
-    <string name="app_name">TwoActivities</string>
-    <string name="button_main">SEND</string>
-    <string name="activity2_name">Second Activity</string>
-    <string name="text_header">Message Received</string>
-    <string name="editText_main">Enter your message here</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
-    <string name="text_header_reply">Reply Received</string>
+    <string name="app_name">Threebutton</string>
+    <string name="text_one">TextOne</string>
+    <string name="text_two">texttwo</string>
+    <string name="text_three">textthree</string>
+    <string name="display_one">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid cumque delectus dicta, dolor ea enim error est excepturi, ipsum minima molestiae perspiciatis quasi reiciendis sapiente sunt temporibus tenetur ullam. Dolores.</string>
+    <string name="display_two">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium doloremque eaque eligendi harum labore minima nobis officia, possimus tenetur ullam? Autem ex exercitationem nemo neque nulla praesentium quas rem velit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid debitis est eum facilis fuga fugit harum, illo maxime mollitia odio officia optio, quae quam quasi quidem quisquam quo ullam voluptatibus!</string>
+    <string name="display_three">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab accusantium adipisci aliquam aperiam architecto commodi corporis, cum deserunt, doloribus laborum magni natus neque optio provident quisquam, recusandae vel voluptatem. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus dignissimos distinctio doloremque quas vero. Amet beatae inventore molestiae nam nesciunt pariatur quasi tempora. Amet at commodi distinctio eaque impedit ipsa. Lorem ipsum dolor sit amet, consectetur adipisicing elit. A adipisci asperiores consectetur dolor dolore doloribus illum magni necessitatibus nihil odio porro quas, qui repellat sint vero. Delectus doloribus qui temporibus.</string>
 </resources>
